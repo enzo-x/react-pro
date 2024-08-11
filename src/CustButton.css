@@ -1,0 +1,11 @@
+.btn{
+    padding: 5px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: rgb(10, 30, 210);
+}
+.btn:active{
+    transform:scale(.98)
+}
